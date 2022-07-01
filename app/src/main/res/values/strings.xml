@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoListApplication</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Task Completed.</string>
+    <string name="sureToMarkAsComplete">Are you sure you are done with the task?</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congratulations, You\'ve achieved something in life.</string>
+</resources>
